@@ -55,6 +55,16 @@ li{
     font-Size: 18px;
 }
 
+a:link{
+    color: #FFF2E7;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #FFF2E7;
+    text-decoration: none;
+}
+
 .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #FFF2E7;
