@@ -190,13 +190,13 @@ li{
 
     .menu li{
         position: relative;
-        
     }
 
     .menuOculto li a{
         display: block;
         background-color: #2F2325;
         font-size: 20px;
+       
     }
 
     .menuOculto li ul{
